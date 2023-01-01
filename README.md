@@ -1,1 +1,1 @@
-# color_game
+# Color game
